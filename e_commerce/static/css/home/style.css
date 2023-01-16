@@ -1,0 +1,17 @@
+*{
+    background-color: red;
+}
+
+.header{
+    width: 100vw;
+    height: 8vh;
+    background-color: #444;
+}
+
+.header-title{
+    width: 30%;
+}
+
+.header-title-text{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
